@@ -10,6 +10,7 @@ bzip2=1.0.8=h4bc722e_7
 ca-certificates=2025.1.31=hbcca054_0
 click=8.1.8=pyh707e725_0
 flask=3.1.0=pyhd8ed1ab_1
+flask-login=0.6.3=pyhd8ed1ab_2
 flask-migrate=4.1.0=pyhd8ed1ab_0
 flask-sqlalchemy=3.1.1=pyh29332c3_1
 flask-wtf=1.2.2=pyhd8ed1ab_1
